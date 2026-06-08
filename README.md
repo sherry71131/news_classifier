@@ -23,3 +23,16 @@ For this project, I only use the headline and category fields.
 
 Dataset link:  
 https://www.kaggle.com/datasets/rmisra/news-category-dataset
+
+### Methods
+1. Preprocessing: Lowercasing text, TF-IDF vectorization, Stopword removal
+2. Model: Logistic Regression
+3. Evaluation: Accuracy, Precision, Recall, F1-score, Confusion matrix
+
+### Results
+- Training progress
+- Validation accuracy
+- Test accuracy
+- Classification report
+- Confusion matrix plot
+- A sample prediction 
